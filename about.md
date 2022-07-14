@@ -24,7 +24,8 @@ DevLUp does not stop there. In conjuction to our online community we will be off
 
 [//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
 
-#### Contact Us
+## Contact Us
 
-[Discord](https://devlup.org/r/discord)
-[Email](mailto:contact@devlup.org)
+Discord: https://devlup.org/r/discord
+
+Email: contact@devlup.org
