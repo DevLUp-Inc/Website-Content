@@ -10,4 +10,4 @@ Custom DevLUp shirts are being worked on and will soon be available for order on
 
 #### Contact Us
 
-If you are interested in funding our community please reach out to us on our [email.](mailto:contact@devlup.org)
+If you are interested in funding our community please reach out to us on our email at contact@devlup.org.
