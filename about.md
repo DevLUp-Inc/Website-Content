@@ -1,6 +1,6 @@
 # We are DevLUp!
 
-DevLUp was created by University of Florida students interested in game development. What originally began as a small group for students to discuss a common interest has grown into a community that fosters growth for it's members skills.
+Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. What originally began as a small group for students to discuss a common interest has grown into a community that fosters growth for it's members skills.
 
 DevLUp does not stop there. In conjuction to our online community we will be offering resources to help individuals throughout their game development journeys. We hope that by lowering the barrier to entry to game development by providing educational tools and resources to our users we can grow the game developer community as a whole.
 
