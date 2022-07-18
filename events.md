@@ -14,13 +14,13 @@ Here you will find a list of our current, upcoming, and past events. For more in
 
 Showoff your game development progress in our Discord!
 
-Working towards improving your skills or a personal project in game development? Let the community know how it's going and get direct feedback, as well as start discussion on topics you're interested in. Our #showoff channel is one of the most active in our discord and there is never a lack of interaction.
+Working towards improving your skills or a personal project in game development? Let the community know how it's going and get direct feedback, as well as start discussion on topics you're interested in. Our #showoff channel is one of the most active in our Discord and there is never a lack of interaction.
 
 Our very own DevLUp Discord bot will also keep track of your projects for you and log your interaction with the event. See how you stack up against the rest of the server and receive roles reflecting your hard work!
 
 ## Upcoming
 
-Currently, during the Summer our community is focused on working on individual projects and developing their skills which you can view in our #showoff channel in our discord. Come Fall we will begin hosting our larger events for our community, so stay tuned!
+Currently, during the Summer our community is focused on working on individual projects and developing their skills which you can view in our #showoff channel in our Discord. Come Fall we will begin hosting our larger events for our community, so stay tuned!
 
 ## Past events
 
