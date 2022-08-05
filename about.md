@@ -1,14 +1,23 @@
 # We are DevLUp!
 
-Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. What originally began as a small group for students to discuss a common interest has grown into a community that fosters growth for it's members skills.
+Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.
 
-DevLUp does not stop there. In conjuction to our online community we will be offering resources to help individuals throughout their game development journeys. We hope that by lowering the barrier to entry to game development by providing educational tools and resources to our users we can grow the game developer community as a whole.
+### Why are so many people joining?
+* We help teach beginners game dev through **weekly workshops**.
+* We've got a community full of talent that **communicates 3x as much as the average larger student org** discord at UF! (Not another dead discord!)
+* We're constantly improving, and we keep our members involved in that process.
 
 ## Our Purpose
 
 ### Community
 
-* The backbone of DevLUp and what we are most proud of is the supportive and interactive online community present in our discord. Here you can find mentors, feedback, opportunities, and friends that share the common interest in game development.
+* The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
+  * semesterly potlucks
+  * semesterly game nights featuring
+    * rocket league
+    * private MC Hunger games
+    * Splitgate
+    * and more... 
 
 ### Development
 
