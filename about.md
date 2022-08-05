@@ -9,13 +9,13 @@ Previously known as the UF Game Developer's Association (UF GDA), DevLUp was cre
 ## Our Purpose
 
 ### Community
-* The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
-  * semesterly potlucks
-  * semesterly game nights featuring
-    * rocket league
-    * private MC Hunger games
-    * Splitgate
-    * and more... 
+The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
+* semesterly potlucks
+* semesterly game nights featuring
+  * rocket league
+  * private MC Hunger games
+  * Splitgate
+  * and more... 
 
 ### Development
 We want to help our members meet their goals, whether thats improving at their favorite hobby or securing a career involved in computer graphics, game development, or digital art. To that end we provide constant opportunities to build a portfolio - game jams, club-wide projects, and an emerging apply-to-enter preprofessional branch that operates at an internship level.
