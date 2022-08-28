@@ -8,7 +8,9 @@ Previously known as the UF Game Developer's Association (UF GDA), DevLUp was cre
 - We're constantly improving, and we keep our members involved in that process.
 
 ## Our Purpose
-![Images](https://media.discordapp.net/attachments/922216869312729088/1005218402710863993/unknown.png?width=600&height=450) ![Images](https://media.discordapp.net/attachments/922216869312729088/1005216946809217165/unknown.png?width=341&height=455)
+
+![Images](https://media.discordapp.net/attachments/922216869312729088/1005218402710863993/unknown.png?width=533&height=400)
+![Images](https://media.discordapp.net/attachments/922216869312729088/1005216946809217165/unknown.png?width=300&height=400)
 
 ### Community
 
