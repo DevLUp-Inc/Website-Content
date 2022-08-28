@@ -12,10 +12,10 @@ Previously known as the UF Game Developer's Association (UF GDA), DevLUp was cre
 
 
 The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We host fun social events too, including but not limited to...
-* semesterly potlucks
-* semesterly game nights featuring
-  * rocket league
-  * private MC Hunger games
+* Semesterly potlucks
+* Semesterly game nights featuring
+  * Rocket League
+  * MC Hunger games
   * Splitgate
   * and more... 
 
