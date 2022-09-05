@@ -4,10 +4,12 @@ Please do not click on anything sent by MichaelT's discord account or Andre (Mar
 
 The malware came in the form of a discord message asking Michael to test an account. Michael ran a malware scan on the game before running it, but it did not find anything.
 
-# **DO NOT CLICK ON THIS LINK**
+These two accounts have been compromised and any message from them **should not be trusted**.
+
+## DO NOT CLICK ANYTHING IN THESE MESSAGES
+
 ![image](https://user-images.githubusercontent.com/42710136/188505818-22fbc4e4-fc84-4cc5-b824-00e1b9b955f2.png)
 ![image](https://user-images.githubusercontent.com/42710136/188505842-038d11d8-2fcf-4dac-8535-76bc94c4276b.png)
-# **DO NOT CLICK ON THIS LINK**
 
 ---
 
