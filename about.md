@@ -5,6 +5,25 @@ Other accounts may be compromised as well.
 
 The malware came in the form of a discord message asking Michael to test an account. Michael ran a malware scan on the game before running it, but it did not find anything.
 
+## Press Release Regarding Hack
+
+September 5th, 2022
+
+DevLUp’s Discord Is Compromised
+
+Today at approximately 2 p.m., our president known on the discord server as MichaelT #1000 was hacked. The hacker has targeting DevLUp’s Discord community. They have changed the name of the server, banned active members and deleted active channels. If they message you, do not respond or click any links. The hacker will compromise your google account and all connected services. We have notified Discord IT of the president’s hacked user account and the identity fraud the hacker is commiting. We are currently watching the situation and will post on social media and devlup.org if there are any developments.
+
+Our club is currently without a Discord any official messages will come from our instagram or website. We are hoping to get in contact with discord about the server soon.
+
+The following users are NOT to be trusted, 雷纳#6823, MichaelT#1000 and Marten#0077. If you are contacted by these accounts or encounter other suspicious activity originating from DevLUp’s discord community, please contact @MichaelTomadakis#2753. Thank you for your patience and stay safe.
+
+For More Information Contact:
+
+conact@devlup.org , and devlup.org/about
+
+DevLUp Inc.
+Our mission is to educate students about game development and encourage student projects in all digital media.
+
 These two accounts have been compromised and any message from them **should not be trusted**.
 
 ## DO NOT CLICK ANYTHING IN THESE MESSAGES
@@ -19,6 +38,7 @@ These two accounts have been compromised and any message from them **should not 
 3. Riot Games
 
 ---
+
 
 # We are DevLUp!
 
