@@ -1,3 +1,14 @@
+# WE CURRENTLY ARE BEING HACKED
+
+Please do not click on anything sent by MichaelT's discord account or Andre (Marten)'s discord account.
+
+The malware came in the form of a discord message asking Michael to test an account. Michael ran a malware scan on the game before running it, but it did not find anything.
+
+# **DO NOT CLICK ON THIS LINK**
+![image](https://user-images.githubusercontent.com/42710136/188505677-61d133e3-c81b-44cc-bab2-9d1c8e042d12.png)
+
+---
+
 # We are DevLUp!
 
 Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
