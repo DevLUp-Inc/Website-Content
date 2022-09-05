@@ -11,15 +11,15 @@ September 5th, 2022
 
 DevLUp’s Discord Is Compromised
 
-Today at approximately 2 p.m., our president known on the discord server as MichaelT #1000 was hacked. The hacker has targeting DevLUp’s Discord community. They have changed the name of the server, banned active members and deleted active channels. If they message you, do not respond or click any links. The hacker will compromise your google account and all connected services. We have notified Discord IT of the president’s hacked user account and the identity fraud the hacker is commiting. We are currently watching the situation and will post on social media and devlup.org if there are any developments.
+Today at approximately 2 p.m., our president known on the discord server as MichaelT#1000 was hacked. The hacker has targeting DevLUp’s Discord community. They have changed the name of the server, banned active members and deleted active channels. If they message you, do not respond or click any links. The hacker will compromise your google account and all connected services. We have notified Discord IT of the president’s hacked user account and the identity fraud the hacker is commiting. We are currently watching the situation and will post on social media and devlup.org if there are any developments.
 
 Our club is currently without a Discord any official messages will come from our instagram or website. We are hoping to get in contact with discord about the server soon.
 
-The following users are NOT to be trusted, 雷纳#6823, MichaelT#1000 and Marten#0077. If you are contacted by these accounts or encounter other suspicious activity originating from DevLUp’s discord community, please contact @MichaelTomadakis#2753. Thank you for your patience and stay safe.
+The following users are NOT to be trusted, **雷纳#6823**, **MichaelT#1000** and **Marten#0077**. If you are contacted by these accounts or encounter other suspicious activity originating from DevLUp’s discord community, please contact **@MichaelTomadakis#2753**. Thank you for your patience and stay safe.
 
-For More Information Contact:
+For more information, contact: contact@devlup.org
 
-conact@devlup.org , and devlup.org/about
+We will be updating this page (https://devlup.org/about) as we have more information.
 
 DevLUp Inc.
 Our mission is to educate students about game development and encourage student projects in all digital media.
