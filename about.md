@@ -8,7 +8,7 @@ Note that because of this, invites that go through DevLUp's redirect system (htt
 
 September 5th, 2022
 
-DevLUp’s Discord Is Compromised
+**DevLUp’s Discord Is Compromised**
 
 Today at approximately 2 p.m., our president known on the discord server as MichaelT#1000 was hacked. The hacker has targeting DevLUp’s Discord community. They have changed the name of the server, banned active members and deleted active channels. If they message you, do not respond or click any links. The hacker will compromise your google account and all connected services. We have notified Discord IT of the president’s hacked user account and the identity fraud the hacker is commiting. We are currently watching the situation and will post on social media and devlup.org if there are any developments.
 
@@ -22,6 +22,8 @@ We will be updating this page (https://devlup.org/about) as we have more informa
 
 DevLUp Inc.
 Our mission is to educate students about game development and encourage student projects in all digital media.
+
+# Initial Announcement
 
 These two accounts have been compromised and any message from them **should not be trusted**.
 
