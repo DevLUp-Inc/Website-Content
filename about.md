@@ -1,9 +1,8 @@
-# WE CURRENTLY ARE BEING HACKED
+# Current Status
 
-Please do not click on anything sent by MichaelT's discord account or Andre (Marten)'s discord account.
-Other accounts may be compromised as well.
+We are currently attempting to regain access to our president's discord account and the DevLUp UF discord server.
 
-The malware came in the form of a discord message asking Michael to test an account. Michael ran a malware scan on the game before running it, but it did not find anything.
+Note that because of this, invites that go through DevLUp's redirect system (https://devlup.org/r/discord) will come to this page.
 
 ## Press Release Regarding Hack
 
