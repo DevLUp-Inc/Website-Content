@@ -1,8 +1,15 @@
 # Current Status
 
-We are currently attempting to regain access to our president's discord account and the DevLUp UF discord server.
+🚨 The old server has been transformed into a **malware server**. 🚨
 
-Note that because of this, invites that go through DevLUp's redirect system (https://devlup.org/r/discord) will come to this page.
+**Do not click on any links in "The Mozi" server!** The old server is named "The Mozi" and is designed to steal your discord account.
+
+We have made a second discord server in order to coordinate and restore things.
+
+You can join the new DevLUp discord here: https://discord.gg/cPtCFa6jQ5
+
+> Note: Currently all of DevLUp's redirect links (https://devlup.org/r/discord) will come to this page. \
+> This page (https://devlup.org/about) will act as our information hub and we will continue to update it as the situation progresses.
 
 ## Press Release Regarding Hack
 
