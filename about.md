@@ -4,7 +4,7 @@
 
 **We have recovered the old server and Michael's account!**
 
-Because the replacement DevLUp server has most of the active UF members, we have decided to make it the new DevLUP UF server. \
+Because the replacement DevLUp server has most of the active UF members, we have decided to make it the new DevLUp UF server. \
 The old server is now the DevLUp Headquarters.
 
 DevLUp UF: https://discord.gg/CHzUJ5xu5N
