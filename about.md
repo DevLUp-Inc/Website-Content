@@ -1,6 +1,16 @@
 # Current Status
 
-🚨 The old server has been transformed into a **malware server**. 🚨
+**We have recovered the old server and Michael's account!**
+
+Because the replacement DevLUp server has most of the active UF members, we have decided to make it the new DevLUP UF server. \
+The old server is now the DevLUp Headquarters.
+
+DevLUp UF: https://discord.gg/CHzUJ5xu5N
+DevLUp Headquarters: https://discord.gg/QV8Pmznt55
+
+## September 6th, 2022
+
+The old server has been transformed into a **malware server**.
 
 **Do not click on any links in "The Mozi" server!** The old server is named "The Mozi" and is designed to steal your discord account.
 
@@ -11,9 +21,7 @@ You can join the new DevLUp discord here: https://discord.gg/cPtCFa6jQ5
 > Note: Currently all of DevLUp's redirect links (https://devlup.org/r/discord) will come to this page. \
 > This page (https://devlup.org/about) will act as our information hub and we will continue to update it as the situation progresses.
 
-## Press Release Regarding Hack
-
-September 5th, 2022
+## September 5th, 2022
 
 **DevLUp’s Discord Is Compromised**
 
