@@ -8,6 +8,7 @@ Because the replacement DevLUp server has most of the active UF members, we have
 The old server is now the DevLUp Headquarters.
 
 DevLUp UF: https://discord.gg/CHzUJ5xu5N
+
 DevLUp Headquarters: https://discord.gg/QV8Pmznt55
 
 ## September 6th, 2022
