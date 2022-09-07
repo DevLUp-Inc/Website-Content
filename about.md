@@ -1,5 +1,7 @@
 # Current Status
 
+## **September 7th, 2022**
+
 **We have recovered the old server and Michael's account!**
 
 Because the replacement DevLUp server has most of the active UF members, we have decided to make it the new DevLUP UF server. \
