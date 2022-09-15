@@ -13,7 +13,7 @@ DevLUp Headquarters: https://discord.gg/QV8Pmznt55
 
 ## September 6th, 2022
 
-The old server has been transformed into a **malware server**.
+The old, hacked server has been transformed into a **malware server**.
 
 **Do not click on any links in "The Mozi" server!** The old server is named "The Mozi" and is designed to steal your discord account.
 
