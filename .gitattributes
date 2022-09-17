@@ -1,0 +1,2 @@
+# Allow comments in json files
+*.json                       linguist-language=JSON-with-Comments
