@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Dinner at Bento 🍜",
+    "date": "2022-08-22T18:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "at Bento on 13th & University",
+    "description": "Come enjoy some Bento, meet the new admins, and get to know other members! We'll be wrapping things up around 7:30pm, but some may go on to bowling at Gator Nights!"
+  },
+  {
+    "title": "Intro to Gamedev 🧑‍🏫",
+    "date": "2022-08-27T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Our first formal meeting! Admin introductions, an exploration of future plans, and a high level overview of game development for beginners!"
+  },
+  {
+    "title": "Unity Basics Workshop 🎓",
+    "date": "2022-09-03T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Based on Brian's recommendation from Spring 2022! An intro to Unity, Platformer controls, some of the underlying data structures and programming patterns, as well as best practices!"
+  },
+  {
+    "title": "Game Night 🎮",
+    "date": "2022-09-10T19:30:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Virtual",
+    "description": "In the past we've done Rocket League, a private Minecraft Hunger Games server, Splitgate, Unturned, Jackbox, Smash, and Terraria. We'll be voting on this as the date approaches!"
+  },
+  {
+    "title": "Pre-Meeting Picnic 🧺",
+    "date": "2022-09-17T12:30:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Plaza of the Americas",
+    "description": "Join us for some purely social chillin' over Krishna Lunch at Plaza of the Americas! Bring a blanket / towel, or even a hammock! Frisbees welcome, come vibe :D"
+  },
+  {
+    "title": "Paper-Pen Design Workshop 📝",
+    "date": "2022-09-17T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Tony, our treasurer, told us the pen is mightier than the RTX 3080Ti. We listened. Come learn how to preplan for gamedev when armed with mere paper and pencil! 🚨Bonus🚨: This meeting will include an early announcement for the coming game jam, and is a great chance to work towards an idea for your game!"
+  },
+  {
+    "title": "Guest Speaker (EA - UX) 👩‍🏫",
+    "date": "2022-09-24T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "on Zoom",
+    "description": "We're aiming to bring a guest speaker in, virtually, to cover the ins and outs of UX design from her experience at EA!"
+  },
+  {
+    "title": "🕹Game Jam!🍓",
+    "date": "2022-09-30T19:30:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Virtual",
+    "description": "Get your friends and get ready to grind-out a game over a 48 hour period starting Friday at 7:00pm ET! Follow our Discord announcements for details!"
+  },
+  {
+    "title": "Playtesting Workshop ✅",
+    "date": "2022-10-08T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Show off your games! Having completed the game jam, we ask you take some time to polish your proejct off! We want some of the top teams to discuss their process, explaining how they made their games, the shortcomings they encountered, and distributing their projects to our members to try out!"
+  },
+  {
+    "title": "Discipline Panel 🗿🗿🗿",
+    "date": "2022-10-15T14:15:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Tons of you voted for this one last semester. We're going to gather some of our most academically performant and advanced members to talk about how they do it every day."
+  },
+  {
+    "title": "Undecided Social 👨‍👩‍👧‍👦",
+    "date": "2022-01-01T00:00:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "TBD",
+    "description": "We'll open a vote for this one as the week approaches!"
+  },
+  {
+    "title": "AI Workshop #1 🤖",
+    "date": "2022-01-01T00:00:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "TBD",
+    "description": "We'll be showing how to build a game that can connect with external APIs to integrate machine learning!"
+  },
+  {
+    "title": "AI Workshop #2 🤖",
+    "date": "2022-01-01T00:00:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "TBD",
+    "description": "GAItor Club will be leading this one, explaining how AI models work, and how we trained one to play our game!"
+  },
+  {
+    "title": "Guest Speaker #2 🗣",
+    "date": "2022-01-01T00:00:00-04:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Virtual",
+    "description": "Uncertain on speaker, aiming for original designer of Master Chief!"
+  },
+  {
+    "title": "Pre-Meeting Picnic #2 🧺",
+    "date": "2022-11-12T12:30:00-05:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Plaza of the Americas",
+    "description": "Join us for some purely social chillin' over Krishna Lunch at Plaza of the Americas! Bring a blanket / towel, or even a hammock! Frisbees welcome, come vibe :D"
+  },
+  {
+    "title": "TBD Workshop 🙋",
+    "date": "2022-11-12T14:15:00-05:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Members will have a chance to vote on the topic for this meeting!"
+  },
+  {
+    "title": "Thanksgiving Game Night 🎮",
+    "date": "2022-11-19T19:30:00-05:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "Virtual",
+    "description": "Join us for our second game night! Play from home during break :)"
+  },
+  {
+    "title": "TBD Workshop 🙋",
+    "date": "2022-11-26T14:15:00-05:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "CISE Basement, Room E114",
+    "description": "Members will have a chance to vote on the topic for this meeting!"
+  },
+  {
+    "title": "Semester-End Celebration 🍾🥳",
+    "date": "2022-12-03T14:15:00-05:00",
+    "eventUrl": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Bsc3BoN2w3YWx0OTFzc2ZoODNqa2VzZjAgdWZsLmdkYUBt&tmsrc=ufl.gda%40gmail.com",
+    "locationText": "TBD",
+    "description": "Event TBD!"
+  }
+]
