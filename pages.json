@@ -1,18 +1,22 @@
 [
   {
     "name": "About",
+    "sitePath": "/about",
     "markdownPath": "about.md"
   },
   {
     "name": "Credits",
+    "sitePath": "/credits",
     "markdownPath": "credits.md"
   },
   {
     "name": "Events",
+    "sitePath": "/events",
     "markdownPath": "events.md"
   },
   {
     "name": "Funding",
+    "sitePath": "/funding",
     "markdownPath": "funding.md"
   }
 ]
