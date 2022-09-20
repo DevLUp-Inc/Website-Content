@@ -1,18 +1,18 @@
 [
   {
     "name": "About",
-    "markdown": "about.md"
+    "markdownPath": "about.md"
   },
   {
     "name": "Credits",
-    "markdown": "credits.md"
+    "markdownPath": "credits.md"
   },
   {
     "name": "Events",
-    "markdown": "events.md"
+    "markdownPath": "events.md"
   },
   {
     "name": "Funding",
-    "markdown": "funding.md"
+    "markdownPath": "funding.md"
   }
 ]
