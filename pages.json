@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "name": "About",
+      "markdown": "about.md"
+    },
+    {
+      "name": "Credits",
+      "markdown": "credits.md"
+    },
+    {
+      "name": "Events",
+      "markdown": "events.md"
+    },
+    {
+      "name": "Funding",
+      "markdown": "funding.md"
+    }
+  ]
+}
