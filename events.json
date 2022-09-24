@@ -1,53 +1,11 @@
 [
   {
-    "title": "Dinner at Bento 🍜",
-    "date": "2022-08-22T18:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "at Bento on 13th & University",
-    "description": "Come enjoy some Bento, meet the new admins, and get to know other members! We'll be wrapping things up around 7:30pm, but some may go on to bowling at Gator Nights!"
-  },
-  {
-    "title": "Intro to Gamedev 🧑‍🏫",
-    "date": "2022-08-27T14:15:00-04:00",
+    "title": "3D Optimization Workshop 🚀",
+    "date": "2022-09-24T14:15:00-04:00",
     "eventUrl": "https://devlup.org/about",
     "locationText": "CISE Basement, Room E119",
-    "description": "Our first formal meeting! Admin introductions, an exploration of future plans, and a high level overview of game development for beginners!"
+    "description": "Optimize your art, and learn a bit about game engines, rendering, and shaders at the same time!"
   },
-  {
-    "title": "Unity Basics Workshop 🎓",
-    "date": "2022-09-03T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "Based on Brian's recommendation from Spring 2022! An intro to Unity, Platformer controls, some of the underlying data structures and programming patterns, as well as best practices!"
-  },
-  {
-    "title": "Game Night 🎮",
-    "date": "2022-09-10T19:30:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "Virtual",
-    "description": "In the past we've done Rocket League, a private Minecraft Hunger Games server, Splitgate, Unturned, Jackbox, Smash, and Terraria. We'll be voting on this as the date approaches!"
-  },
-  {
-    "title": "Pre-Meeting Picnic 🧺",
-    "date": "2022-09-17T12:30:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "Plaza of the Americas",
-    "description": "Join us for some purely social chillin' over Krishna Lunch at Plaza of the Americas! Bring a blanket / towel, or even a hammock! Frisbees welcome, come vibe :D"
-  },
-  {
-    "title": "Paper-Pen Design Workshop 📝",
-    "date": "2022-09-17T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "Tony, our treasurer, told us the pen is mightier than the RTX 3080Ti. We listened. Come learn how to preplan for gamedev when armed with mere paper and pencil! 🚨Bonus🚨: This meeting will include an early announcement for the coming game jam, and is a great chance to work towards an idea for your game!"
-  },
-   {
-     "title": "3D Optimization Workshop 🚀",
-     "date": "2022-09-24T14:15:00-04:00",
-     "eventUrl": "https://devlup.org/about",
-     "locationText": "CISE Basement, Room E119",
-     "description": "Optimize your art, and learn a bit about game engines, rendering, and shaders at the same time!"
-   },
   {
     "title": "🕹Game Jam!🍓",
     "date": "2022-09-30T19:30:00-04:00",
@@ -56,11 +14,11 @@
     "description": "Get your friends and get ready to grind-out a game over a 48 hour period starting Friday at 7:00pm ET! Follow our Discord announcements for details!"
   },
   {
-    "title": "Playtesting Workshop ✅",
+    "title": "Guest Speaker: Grace Ling",
     "date": "2022-10-08T14:15:00-04:00",
     "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "Show off your games! Having completed the game jam, we ask you take some time to polish your proejct off! We want some of the top teams to discuss their process, explaining how they made their games, the shortcomings they encountered, and distributing their projects to our members to try out!"
+    "locationText": "on Zoom",
+    "description": "Grace Ling is the founder of one of the world's largest, most active design communities, \"Design Buddies\", as well as a designer at Electronic Arts!"
   },
   {
     "title": "Discipline Panel 🗿🗿🗿",
