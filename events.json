@@ -18,7 +18,7 @@
     "date": "2022-10-22T14:15:00-04:00",
     "eventUrl": "https://devlup.org/about",
     "locationText": "CISE Basement, Room E119",
-    "description": "We'll be showing how to build a game that can connect with external APIs to integrate machine learning!"
+    "description": "A broad sweep of introductory machine learning concepts and the various applications machine learning has in gamedev. Plus, we'll be showing how to build a game that can connect with external APIs to integrate machine learning!"
   },
   {
     "title": "UF - AI Workshop #2 🤖",
