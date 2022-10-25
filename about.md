@@ -1,74 +1,18 @@
-# Current Status
+# We are DevLUp!
 
-## **September 7th, 2022**
+Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
 
-**We have recovered the old server and Michael's account!**
-
-Because the replacement DevLUp server has most of the active UF members, we have decided to make it the new DevLUp UF server. \
-The old server is now the DevLUp Headquarters.
+To join our discord, use the following links!
 
 DevLUp UF: https://discord.gg/CHzUJ5xu5N
 
 DevLUp Headquarters: https://discord.gg/QV8Pmznt55
-
-## September 6th, 2022
-
-The old, hacked server has been transformed into a **malware server**.
-
-**Do not click on any links in "The Mozi" server!** The old server is named "The Mozi" and is designed to steal your discord account.
-
-We have made a second discord server in order to coordinate and restore things.
-
-You can join the new DevLUp discord here: https://discord.gg/cPtCFa6jQ5
-
-> Note: Currently all of DevLUp's redirect links (https://devlup.org/r/discord) will come to this page. \
-> This page (https://devlup.org/about) will act as our information hub and we will continue to update it as the situation progresses.
-
-## September 5th, 2022
-
-**DevLUp’s Discord Is Compromised**
-
-Today at approximately 2 p.m., our president known on the discord server as MichaelT#1000 was hacked. The hacker has targeting DevLUp’s Discord community. They have changed the name of the server, banned active members and deleted active channels. If they message you, do not respond or click any links. The hacker will compromise your google account and all connected services. We have notified Discord IT of the president’s hacked user account and the identity fraud the hacker is commiting. We are currently watching the situation and will post on social media and devlup.org if there are any developments.
-
-Our club is currently without a Discord any official messages will come from our instagram or website. We are hoping to get in contact with discord about the server soon.
-
-The following users are NOT to be trusted, **雷纳#6823**, **MichaelT#1000** and **Marten#0077**. If you are contacted by these accounts or encounter other suspicious activity originating from DevLUp’s discord community, please contact **@MichaelTomadakis#2753**. Thank you for your patience and stay safe.
-
-For more information, contact: contact@devlup.org
-
-We will be updating this page (https://devlup.org/about) as we have more information.
-
-DevLUp Inc.
-Our mission is to educate students about game development and encourage student projects in all digital media.
-
-# Initial Announcement
-
-These two accounts have been compromised and any message from them **should not be trusted**.
-
-## DO NOT CLICK ANYTHING IN THESE MESSAGES
-
-![image](https://user-images.githubusercontent.com/42710136/188505818-22fbc4e4-fc84-4cc5-b824-00e1b9b955f2.png)
-![image](https://user-images.githubusercontent.com/42710136/188505842-038d11d8-2fcf-4dac-8535-76bc94c4276b.png)
-
----
----
----
----
-
-# We are DevLUp!
-
-Previously known as the UF Game Developer's Association (UF GDA), DevLUp was created by University of Florida students interested in game development. Since around December 2020, we've grown from **100** to **700 members.**
 
 ## Why are so many people joining?
 
 - We help teach beginners and pros through **weekly workshops**.
 - We've got a community full of talent that **communicates 3x as much as the average larger student org** discord at UF! (Not another dead discord!)
 - We're constantly improving, and we keep our members involved in that process.
-
-## Our Purpose
-
-![Images](https://media.discordapp.net/attachments/922216869312729088/1005218402710863993/unknown.png?width=533&height=400)
-![Images](https://user-images.githubusercontent.com/42710136/189031492-a83da07d-fa9d-44f7-a0ce-0580abab5edc.png)
 
 ### Community
 
