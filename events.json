@@ -1,30 +1,9 @@
 [
   {
-    "title": "UF - Playtesting Workshop ✅",
-    "date": "2022-10-15T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "Show off your games! Having completed the game jam, we ask you take some time to polish your project off! We want some of the top teams to discuss their process, explaining how they made their games, the shortcomings they encountered, and distributing their projects to our members to try out!"
-  },
-  {
-    "title": "UF - Undecided Social 👨‍👩‍👧‍👦",
-    "date": "2022-10-15T14:15:00-04:00",
+    "title": "UF - AI Workshop #2 🤖",
+    "date": "2022-10-31T18:00:00-04:00",
     "eventUrl": "https://devlup.org/about",
     "locationText": "TBD",
-    "description": "We'll open a vote for this one as the week approaches!"
-  },
-  {
-    "title": "UF - AI Workshop #1 🤖",
-    "date": "2022-10-22T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "A broad sweep of introductory machine learning concepts and the various applications machine learning has in gamedev. Plus, we'll be showing how to build a game that can connect with external APIs to integrate machine learning!"
-  },
-  {
-    "title": "UF - AI Workshop #2 🤖",
-    "date": "2022-10-29T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
     "description": "GAItor Club will be leading this one, explaining how AI models work, and how we trained one to play our game!"
   },
   {
