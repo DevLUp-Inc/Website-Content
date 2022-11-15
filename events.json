@@ -1,31 +1,17 @@
 [
   {
-    "title": "HQ - Guest Speaker #2 🗣",
-    "date": "2022-11-05T14:15:00-04:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "Virtual (Zoom)",
-    "description": "Jen Huffa is a technical artist with experience at Blizzard and currently working on the Valorant team at Riot Games! Join us over Zoom to learn about her career!"
-  },
-  {
-    "title": "UF - Paper-Pen Design Workshop 📝",
-    "date": "2022-11-13T14:15:00-05:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "CISE Basement, Room E119",
-    "description": "Tony, our treasurer, told us the pen is mightier than the RTX 4090. We listened. Come learn how to plan for gamedev when armed with mere paper and pencil!"
-  },
-  {
-    "title": "UF - Thanksgiving Game Night 🎮",
-    "date": "2022-11-19T19:30:00-05:00",
-    "eventUrl": "https://devlup.org/about",
-    "locationText": "Virtual",
-    "description": "Join us for our second game night! Play from home during break :)"
-  },
-  {
     "title": "UF - Discipline Panel 🗿🗿🗿",
-    "date": "2022-11-26T14:15:00-05:00",
+    "date": "2022-11-19T14:15:00-05:00",
     "eventUrl": "https://devlup.org/about",
     "locationText": "CISE Basement, Room E119",
     "description": "Tons of you voted for this one last semester. We're going to gather some of our most academically performant and advanced members to talk about how they do it every day."
+  },
+  {
+    "title": "UF - Thanksgiving Game Night 🎮",
+    "date": "2022-11-26T19:30:00-05:00",
+    "eventUrl": "https://devlup.org/about",
+    "locationText": "Virtual",
+    "description": "Join us for our second game night! Play from home during break :)"
   },
   {
     "title": "UF - Semester-End Celebration 🍾🥳",
