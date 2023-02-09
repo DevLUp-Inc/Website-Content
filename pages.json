@@ -18,5 +18,10 @@
     "name": "Funding",
     "websitePath": "/funding",
     "markdownPath": "funding.md"
+  },
+  {
+    "name": "Privacy Policy",
+    "websitePath": "/privacy-policy",
+    "markdownPath": "privacy-policy.md"
   }
 ]
