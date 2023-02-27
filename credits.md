@@ -1,4 +1,7 @@
 # Credits
 
-William Chen, Michael Tomadakis, Abraham Banos
-Check back later for more content.
+### Website
+
+- Programming: William Chen and Michael Tomadakis
+
+- Content: Abraham Banos
