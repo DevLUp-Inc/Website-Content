@@ -8,7 +8,7 @@ We have a main headquarters discord where all of our branches come together as o
 
 - Headquarters - DevLUp HQ: https://discord.gg/QV8Pmznt55
 
-Additionally, we have servers for each of our larger branches! We recommend joining both HQ and your school specific server.
+Additionally, we have servers for each of our larger branches! We recommend joining both HQ and your school specific server. A more complete list is available on our HQ server.
 
 - University of Florida - DevLUp UF: https://discord.gg/CHzUJ5xu5N
 
@@ -18,7 +18,7 @@ Smaller branches are part of our HQ server and if you don't see your school list
 
 ### What do we offer?
 
-At DevLUp, we offer both DevLUp-wide and school-specific events. Additionally, we have a custom discord bot that we are constantly working on.
+At DevLUp, we offer both DevLUp-wide and branch-specific events. Additionally, we have a custom discord bot that we are constantly working on.
 
 At DevLUp HQ (DevLUp-wide), we offer:
 
@@ -30,6 +30,8 @@ At DevLUp HQ (DevLUp-wide), we offer:
 
 - **Points**: A game developer community wouldn't be complete without a point system! Earn points as you participate in Dev Hour and Showoff!
 
+For branch-specific events, please join the corresponding branch discord for your school!
+
 ### Community
 
 The backbone of DevLUp is the supportive and interactive online community we foster. You can find mentors, feedback, opportunities, and friends that share the common interest in game development. We also host social events like game nights. Whether you're here to learn, make friends, or have fun, you'll fit right in!
@@ -40,7 +42,8 @@ We want to help our members meet their goals, whether thats improving at their f
 
 ### Education
 
-This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our discord, receiving feedback and points to stand out through our bot. 
+This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our 
+discord, receiving feedback and points to stand out through our bot. 
 
 [//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
 
