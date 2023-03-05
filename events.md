@@ -10,7 +10,7 @@ Here you will find a list of our major events. For a more complete list, please 
 
 > March 31 - April 2nd
 
-Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam! Join us this year at UCF, more details soon...
+Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam! Join us this year at UCF, more details soon!
 
 ## Past major events
 
