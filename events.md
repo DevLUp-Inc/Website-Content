@@ -8,7 +8,7 @@ Here you will find a list of our major events. For a more complete list, please 
 
 ### Joint Jam 2023
 
-> March 31 - April 2nd
+> March 31 to April 2nd, 2023
 
 Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam! Join us this year at UCF, more details soon!
 
@@ -16,7 +16,7 @@ Joint Jam is an annual collaboration between Florida's collegiate game developer
 
 ### 100 Days of Gamedev
 
-> May 1st to Aug 14th, 2022
+> May 1 to Aug 14, 2022
 
 Showoff your game development progress in our discord!
 
@@ -25,5 +25,7 @@ Working towards improving your skills or a personal project in game development?
 Our very own DevLUp discord bot will also keep track of your projects for you and log your interaction with the event. See how you stack up against the rest of the server and receive roles reflecting your hard work!
 
 ### Berni and Murcer Club-Wide Game Jam
+
+> May 20 to May 23, 2022
 
 In this project, a group upwards of 30 DevLUp members of all experience levels worked together in conjuction with Berni and Murcer in order to bring to life their idea for a kids game based on their childrens book. This event lasted a total of 72 hours and the team completed the majority of the initial ice level and game systems.
