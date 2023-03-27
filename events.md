@@ -10,7 +10,11 @@ Here you will find a list of our major events. For a more complete list, please 
 
 > March 31 to April 2nd, 2023
 
-Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam! Join us this year at UCF, more details soon!
+Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam! Join us this year **in-person** at UCF and **online** on Discord!
+
+Discord server: https://discord.gg/XPXVtmAvsu
+
+Itch.io page: https://itch.io/jam/joint-jam-2023
 
 ## Past major events
 
