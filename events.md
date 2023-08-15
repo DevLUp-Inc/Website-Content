@@ -6,6 +6,14 @@ Here you will find a list of our major events. For a more complete list, please 
 
 ## Upcoming major events
 
+### Joint Jam 2024
+
+> To be determined
+
+Joint Jam is an annual collaboration between Florida's collegiate game developers from various communities in and out of DevLUp in hosting a 48-hour game jam!
+
+## Past major events
+
 ### Joint Jam 2023
 
 > March 31 to April 2nd, 2023
@@ -15,8 +23,6 @@ Joint Jam is an annual collaboration between Florida's collegiate game developer
 Discord server: https://discord.gg/XPXVtmAvsu
 
 Itch.io page: https://itch.io/jam/joint-jam-2023
-
-## Past major events
 
 ### 100 Days of Gamedev
 
