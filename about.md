@@ -14,6 +14,8 @@ Additionally, we have servers for each of our larger branches! We recommend join
 
 - Florida State University - DevLUp FSU: https://discord.gg/jehBXnYVpR
 
+- Florida Institute of Technology - DevLUp FIT: https://discord.gg/udQ9GnuWkA
+
 Smaller branches are part of our HQ server and if you don't see your school listed, reach out to us and we'll work with you to start a branch!
 
 ### What do we offer?
