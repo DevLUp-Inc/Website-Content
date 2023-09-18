@@ -6,15 +6,15 @@ Previously known as the UF Game Developer's Association (UF GDA), DevLUp is a no
 
 We have a main headquarters discord where all of our branches come together as one, for DevLUp-wide events.
 
-- Headquarters - DevLUp HQ: https://discord.gg/QV8Pmznt55
+- Headquarters - DevLUp HQ: https://devlup.org/r/discord
 
 Additionally, we have servers for each of our larger branches! We recommend joining both HQ and your school specific server. A more complete list is available on our HQ server.
 
-- University of Florida - DevLUp UF: https://discord.gg/CHzUJ5xu5N
+- University of Florida - DevLUp UF: https://devlup.org/r/discord-uf
 
-- Florida State University - DevLUp FSU: https://discord.gg/jehBXnYVpR
+- Florida State University - DevLUp FSU: https://devlup.org/r/discord-fsu
 
-- Florida Institute of Technology - DevLUp FIT: https://discord.gg/udQ9GnuWkA
+- Florida Institute of Technology - DevLUp FIT: https://devlup.org/r/discord-fit
 
 Smaller branches are part of our HQ server and if you don't see your school listed, reach out to us and we'll work with you to start a branch!
 
@@ -53,4 +53,4 @@ discord, receiving feedback and points to stand out through our bot.
 
 Email: contact@devlup.org
 
-HQ Discord: https://discord.gg/QV8Pmznt55
+HQ Discord: https://devlup.org/r/discord
