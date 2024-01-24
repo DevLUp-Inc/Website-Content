@@ -39,3 +39,13 @@ Our very own DevLUp discord bot will also keep track of your projects for you an
 > May 20th to May 23th, 2022
 
 In this project, a group upwards of 30 DevLUp members of all experience levels worked together in conjuction with Berni and Murcer in order to bring to life their idea for a kids game based on their childrens book. This event lasted a total of 72 hours and the team completed the majority of the initial ice level and game systems.
+
+### Joint Jam 2022
+
+> April 1st to April 3rd, 2022
+
+The first Joint Jam! Joint Jam 2022 was a collaboration between the game dev clubs at UF, UCF, and USF.
+
+Discord server: https://discord.gg/na4zF643Cr
+
+Itch.io page: https://itch.io/jam/florida-joint-jam
