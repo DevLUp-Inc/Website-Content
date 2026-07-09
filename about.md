@@ -2,37 +2,31 @@
 
 Previously known as the UF Game Developer's Association (UF GDA), DevLUp is a non-profit student organization that works to bring game development to schools across Florida.
 
-### Join our discord!
+### Join our Discord!
 
-We have a main headquarters discord where all of our branches come together as one, for DevLUp-wide events.
+We have a main headquarters Discord where our branches come together as one for DevLUp-wide events.
 
 - Headquarters - DevLUp HQ: https://devlup.org/r/discord
 
-Additionally, we have servers for each of our larger branches! We recommend joining both HQ and your school specific server. A more complete list is available on our HQ server.
+We currently have branches at two Florida universities:
 
 - University of Florida - DevLUp UF: https://devlup.org/r/discord-uf
 
 - Florida State University - DevLUp FSU: https://devlup.org/r/discord-fsu
 
-- Florida Institute of Technology - DevLUp FIT: https://devlup.org/r/discord-fit
-
-Smaller branches are part of our HQ server and if you don't see your school listed, reach out to us and we'll work with you to start a branch!
-
 ### What do we offer?
 
-At DevLUp, we offer both DevLUp-wide and branch-specific events. Additionally, we have a custom discord bot that we are constantly working on.
+At DevLUp, we offer both DevLUp-wide and branch-specific events. Additionally, we have a custom Discord bot that we are constantly working on.
 
 At DevLUp HQ (DevLUp-wide), we offer:
 
-- **Guest Speakers**: We aim to bring at least 2 guest speakers per semester to talk to the DevLUp community. Ask your burning questions about game dev to industry professionals!
-
 - **Dev Hour**: A daily event where everyone is invited to participate. Dev Hour is meant to be a place to work on your game dev project, school work, or simply chat with other developers from DevLUp's community.
 
-- **Showoff**: Want to showoff or talk about your work with other DevLUp members? Showoff your work using the discord bot! Your project will also appear on our website!
+- **Showoff**: Want to showoff or talk about your work with other DevLUp members? Showoff your work using the Discord bot! Your project will also appear on our website!
 
 - **Points**: A game developer community wouldn't be complete without a point system! Earn points as you participate in Dev Hour and Showoff!
 
-For branch-specific events, please join the corresponding branch discord for your school!
+For branch-specific events, please join the corresponding branch Discord for your school!
 
 ### Community
 
@@ -40,12 +34,11 @@ The backbone of DevLUp is the supportive and interactive online community we fos
 
 ### Development
 
-We want to help our members meet their goals, whether thats improving at their favorite hobby or securing a career involved in computer graphics, game development, or digital art. To that end we provide constant opportunities to build a portfolio - game jams, club-wide projects, and an emerging apply-to-enter preprofessional branch that operates at an internship level.
+We want to help our members meet their goals, whether that's improving at their favorite hobby or securing a career involved in computer graphics, game development, or digital art. To that end we provide constant opportunities to build a portfolio - game jams, club-wide projects, and an emerging apply-to-enter preprofessional branch that operates at an internship level.
 
 ### Education
 
-This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our 
-discord, receiving feedback and points to stand out through our bot. 
+This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our Discord, receiving feedback and points to stand out through our bot. 
 
 [//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
 
