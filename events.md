@@ -17,7 +17,7 @@ You can find a list of our branches on the about page: https://devlup.org/about
 Game Dev Club Club is a newly founded collective of game dev clubs from over 70 universities, including DevLUp's own
 branches! GDCC will be hosting a game jam early August.
 
-_Also, yes the name. It's a club for game dev clubs._
+_Also, yes, the name. It's a club for game dev clubs._
 
 Website: https://gamedevclubclub.com/
 
