@@ -10,14 +10,14 @@ You can find a list of our branches on the about page: https://devlup.org/about
 
 ## Upcoming major events
 
-### Game Dev Club Club Jam
+### Game Dev Club Club Jam Jam
 
 > August 6 to August 9, 2026
 
-Game Dev Club Club is a newly founded collective of game dev clubs from over 70 universities, which also include
-DevLUp's own branches.
+Game Dev Club Club is a newly founded collective of game dev clubs from over 70 universities, including DevLUp's own
+branches! GDCC will be hosting a game jam early August.
 
-In other words, Game Dev Club Club is a club, for game dev clubs.
+_Also, yes the name. It's a club for game dev clubs._
 
 Website: https://gamedevclubclub.com/
 
