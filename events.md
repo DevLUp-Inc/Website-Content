@@ -1,8 +1,12 @@
 # DevLUp Events
 
-As a student-led game dev organization, we work to host events each semester and throughout the summer. These often include game jams as well as collaborative projects so participants can grow their game dev skills and gain experience.
+As a student-led game dev organization, we work to host events each semester and throughout the summer. These often 
+include game jams as well as collaborative projects so participants can grow their game dev skills and gain experience.
 
-Here you will find a list of our major events. For a more complete list, please join [our HQ Discord](https://devlup.org/r/discord) and consider joining the branch corresponding to your school!
+Here you will find a list of our major events. For a more complete list, please join
+[our HQ Discord](https://devlup.org/r/discord) and consider joining the branch corresponding to your school!
+
+You can find a list of our branches on the about page: https://devlup.org/about
 
 ## Upcoming major events
 
