@@ -40,7 +40,22 @@ We want to help our members meet their goals, whether that's improving at their 
 
 This is where we really shine. Our past workshops can be found on [YouTube](https://www.youtube.com/@devlup-inc), including a beginner-sessions playlist. We also understand how critical discipline and habit are to one's education — we motivate our members to post daily updates on their personal projects directly from our Discord, receiving feedback and points to stand out through our bot. 
 
-[//]: ## (Behind The Scenes, information on the org's story as well as just putting the credits section here.)
+## Other links
+
+### University of Florida - DevLUp UF
+
+- Discord: https://devlup.org/r/discord-uf
+- YouTube: https://www.youtube.com/@devlup-uf
+- GitHub: https://github.com/DevLUp-UF
+- GatorConnect: https://orgs.studentinvolvement.ufl.edu/Organization/game-developers-association
+
+### Florida State University - DevLUp FSU
+
+- Website: https://fsu.devlup.org/
+- Discord: https://devlup.org/r/discord-fsu
+- YouTube: https://www.youtube.com/@DevLUpFSU
+- GitHub: https://github.com/devlup-fsu
+- Nole Central: https://nolecentral.dsa.fsu.edu/organization/devlup
 
 ## Contact
 
