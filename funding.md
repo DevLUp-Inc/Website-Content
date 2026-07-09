@@ -2,7 +2,13 @@
 
 ## How is DevLUp Maintained?
 
-DevLUp is created and mainly maintained by university students. The events we throw and access to our resources come at no cost to users outside of whatever time they want to contribute. Due to having considerable members and attendance at our events there is usually an operating cost the our team has to cover. If the our goals and beliefs at DevLUp resonate with you we encourage any amount of donation.  Donations received will go directly to back into benefitting our community. We aim to expand and provide a large amount of resources and opportunities to young game developers throughout Florida in the coming year and any assistance would be greatly appreciated.
+DevLUp is created and maintained by university students.
+
+The events we host and the resources we provide come at no cost to users other than the time they contribute.
+As such, there is usually an operating cost that our team has to cover. If the goals and beliefs of DevLUp resonate
+with you, we encourage any amount of donation. Donations received will go directly towards benefiting our community,
+and with your donation, we will continue to be able to provide resources and opportunities to young game developers
+across Florida.
 
 #### Contact Us
 
