@@ -10,16 +10,21 @@ You can find a list of our branches on the about page: https://devlup.org/about
 
 ## Upcoming major events
 
-### Game Dev Club Club Jam Jam
+Currently none, but expect a jam sometime this fall!
 
-> August 6 to August 9, 2026
+## Past jams
 
-Game Dev Club Club is a newly founded collective of game dev clubs from over 70 universities, including DevLUp's own
-branches! GDCC will be hosting a game jam early August.
-
-_Also, yes, the name. It's a club for game dev clubs._
-
-Website: https://gamedevclubclub.com/
+- Florida Comedy Game Jam (Spring 2026): https://itch.io/jam/florida-comedy-game-jam-26
+- DevilUp Horror Jam (Fall 2025): https://itch.io/jam/devilup-horror-jam-25
+- DevLUp Wargames (Fall 2024): https://itch.io/jam/devlup-wargames-fall-24
+- Joint Jam (Spring 2024): https://itch.io/jam/joint-jam-2024
+- DevLUp Wargames (Fall 2023): https://itch.io/jam/devlup-fall-23-wargames
+- DevLUp Training Grounds (Fall 2023): https://itch.io/jam/devlup-uf-fa2023
+- Joint Jam (Spring 2023): https://itch.io/jam/joint-jam-2023
+- Global Game Jam (UF) (Spring 2023): https://itch.io/jam/global-game-jam-uf
+- DevLUp Fall Game Jam (Fall 2022): https://itch.io/jam/devlup-game-jam
+- Joint Jam (Spring 2022): https://itch.io/jam/florida-joint-jam
+- Telephone Jam (Spring 2022): https://itch.io/jam/telephone-jam
 
 ## Past major events
 
