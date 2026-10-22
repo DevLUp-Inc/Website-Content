@@ -10,7 +10,15 @@ You can find a list of our branches on the about page: https://devlup.org/about
 
 ## Upcoming major events
 
-Currently none, but expect a jam sometime this fall!
+### DevLUp Fall Game Jam '26
+
+> November 13 to November 15, 2026
+
+Hosted this year by DevLUp FSU, the DevLUp Fall Game Jam is a 48-hour intercollegiate weekend game jam for Florida schools!
+
+Discord server: https://discord.gg/bhWPbc2BCY
+
+Itch.io page: https://itch.io/jam/devlup-fall-game-jam-26
 
 ## Past jams
 
